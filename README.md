@@ -2,7 +2,7 @@
 The centerpiece of the [trickest/cve](https://github.com/trickest/cve) project; finds CVE PoCs on Github. 
 ## Installation
 ### From binary
-Download a prebuilt binary from the [releases page](https://github.com/trickest/find-gh-poc/releases/latest) and unzip it.
+Download a prebuilt binary from the [releases page](https://github.com/jmousqueton/find-gh-poc/releases/latest) and unzip it.
 
 ### From source
 Go version 1.17 is recommended.
